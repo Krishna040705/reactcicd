@@ -5,6 +5,11 @@
   text-align: center;
 }
 
+.card a {
+  color: #646cff;
+  text-decoration: underline;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
